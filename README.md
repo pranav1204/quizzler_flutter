@@ -14,13 +14,13 @@ This is a Quiz App for iOS and Android that will assess your general knowledge. 
 What I learnt while making this quizzler app
 One of the most important things is what I learned while making this app. See them below:
 
-Modularising code into separate classes.
-Dart classes and objects.
-Using class constructors.
-Extracting Widgets to refactor your code.
-private and public modifiers in Dart.
-How to use Dart lists.
-The difference between var, const and final.
+- Modularising code into separate classes.
+- Dart classes and objects.
+- Using class constructors.
+- Extracting Widgets to refactor your code.
+- private and public modifiers in Dart.
+- How to use Dart lists.
+- The difference between var, const and final.
 
 
 
